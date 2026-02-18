@@ -1,0 +1,541 @@
+[
+  {
+    "id": 1,
+    "date": "2026-01-18",
+    "category": "Food",
+    "amount": 20.0,
+    "description": ""
+  },
+  {
+    "id": 2,
+    "date": "2026-01-18",
+    "category": "Transport",
+    "amount": 30.0,
+    "description": ""
+  },
+  {
+    "id": 3,
+    "date": "2026-01-18",
+    "category": "Shopping",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 4,
+    "date": "2026-01-18",
+    "category": "Entertainment",
+    "amount": 15.0,
+    "description": ""
+  },
+  {
+    "id": 5,
+    "date": "2026-01-18",
+    "category": "Bills",
+    "amount": 150.0,
+    "description": ""
+  },
+  {
+    "id": 6,
+    "date": "2026-01-18",
+    "category": "Healthcare",
+    "amount": 10.0,
+    "description": ""
+  },
+  {
+    "id": 7,
+    "date": "2026-01-18",
+    "category": "Education",
+    "amount": 30.0,
+    "description": ""
+  },
+  {
+    "id": 8,
+    "date": "2026-01-18",
+    "category": "Other",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 9,
+    "date": "2026-01-12",
+    "category": "Food",
+    "amount": 30.0,
+    "description": ""
+  },
+  {
+    "id": 10,
+    "date": "2026-01-12",
+    "category": "Shopping",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 11,
+    "date": "2026-01-12",
+    "category": "Bills",
+    "amount": 200.0,
+    "description": ""
+  },
+  {
+    "id": 12,
+    "date": "2026-01-12",
+    "category": "Education",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 13,
+    "date": "2026-01-12",
+    "category": "Other",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 14,
+    "date": "2025-12-17",
+    "category": "Food",
+    "amount": 30.0,
+    "description": ""
+  },
+  {
+    "id": 15,
+    "date": "2025-12-17",
+    "category": "Transport",
+    "amount": 20.0,
+    "description": ""
+  },
+  {
+    "id": 16,
+    "date": "2025-12-17",
+    "category": "Shopping",
+    "amount": 15.0,
+    "description": ""
+  },
+  {
+    "id": 17,
+    "date": "2025-12-17",
+    "category": "Entertainment",
+    "amount": 80.0,
+    "description": ""
+  },
+  {
+    "id": 18,
+    "date": "2025-12-17",
+    "category": "Education",
+    "amount": 30.0,
+    "description": ""
+  },
+  {
+    "id": 19,
+    "date": "2025-12-17",
+    "category": "Other",
+    "amount": 40.0,
+    "description": ""
+  },
+  {
+    "id": 20,
+    "date": "2025-12-18",
+    "category": "Food",
+    "amount": 30.0,
+    "description": ""
+  },
+  {
+    "id": 21,
+    "date": "2025-12-18",
+    "category": "Transport",
+    "amount": 20.0,
+    "description": ""
+  },
+  {
+    "id": 22,
+    "date": "2025-12-18",
+    "category": "Shopping",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 23,
+    "date": "2025-12-18",
+    "category": "Entertainment",
+    "amount": 10.0,
+    "description": ""
+  },
+  {
+    "id": 24,
+    "date": "2025-12-18",
+    "category": "Bills",
+    "amount": 150.0,
+    "description": ""
+  },
+  {
+    "id": 25,
+    "date": "2025-12-18",
+    "category": "Healthcare",
+    "amount": 40.0,
+    "description": ""
+  },
+  {
+    "id": 26,
+    "date": "2025-12-18",
+    "category": "Education",
+    "amount": 70.0,
+    "description": ""
+  },
+  {
+    "id": 27,
+    "date": "2025-12-18",
+    "category": "Other",
+    "amount": 30.0,
+    "description": ""
+  },
+  {
+    "id": 28,
+    "date": "2026-02-20",
+    "category": "Food",
+    "amount": 30.0,
+    "description": ""
+  },
+  {
+    "id": 29,
+    "date": "2026-02-20",
+    "category": "Transport",
+    "amount": 10.0,
+    "description": ""
+  },
+  {
+    "id": 30,
+    "date": "2026-02-20",
+    "category": "Shopping",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 31,
+    "date": "2026-02-20",
+    "category": "Entertainment",
+    "amount": 10.0,
+    "description": ""
+  },
+  {
+    "id": 32,
+    "date": "2026-02-20",
+    "category": "Bills",
+    "amount": 130.0,
+    "description": ""
+  },
+  {
+    "id": 33,
+    "date": "2026-02-20",
+    "category": "Healthcare",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 34,
+    "date": "2026-02-20",
+    "category": "Education",
+    "amount": 40.0,
+    "description": ""
+  },
+  {
+    "id": 35,
+    "date": "2026-02-20",
+    "category": "Other",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 36,
+    "date": "2026-02-12",
+    "category": "Food",
+    "amount": 20.0,
+    "description": ""
+  },
+  {
+    "id": 37,
+    "date": "2026-02-12",
+    "category": "Transport",
+    "amount": 30.0,
+    "description": ""
+  },
+  {
+    "id": 38,
+    "date": "2026-02-12",
+    "category": "Shopping",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 39,
+    "date": "2026-02-12",
+    "category": "Entertainment",
+    "amount": 10.0,
+    "description": ""
+  },
+  {
+    "id": 40,
+    "date": "2026-02-12",
+    "category": "Healthcare",
+    "amount": 40.0,
+    "description": ""
+  },
+  {
+    "id": 41,
+    "date": "2026-02-12",
+    "category": "Education",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 42,
+    "date": "2026-02-12",
+    "category": "Other",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 43,
+    "date": "2025-12-17",
+    "category": "Food",
+    "amount": 20.0,
+    "description": ""
+  },
+  {
+    "id": 44,
+    "date": "2025-12-17",
+    "category": "Transport",
+    "amount": 30.0,
+    "description": ""
+  },
+  {
+    "id": 45,
+    "date": "2025-12-17",
+    "category": "Shopping",
+    "amount": 10.0,
+    "description": ""
+  },
+  {
+    "id": 46,
+    "date": "2025-12-17",
+    "category": "Entertainment",
+    "amount": 40.0,
+    "description": ""
+  },
+  {
+    "id": 47,
+    "date": "2025-12-17",
+    "category": "Bills",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 48,
+    "date": "2025-12-17",
+    "category": "Healthcare",
+    "amount": 30.0,
+    "description": ""
+  },
+  {
+    "id": 49,
+    "date": "2025-12-17",
+    "category": "Education",
+    "amount": 20.0,
+    "description": ""
+  },
+  {
+    "id": 50,
+    "date": "2025-12-17",
+    "category": "Other",
+    "amount": 15.0,
+    "description": ""
+  },
+  {
+    "id": 51,
+    "date": "2026-01-21",
+    "category": "Food",
+    "amount": 20.0,
+    "description": ""
+  },
+  {
+    "id": 52,
+    "date": "2026-01-21",
+    "category": "Transport",
+    "amount": 10.0,
+    "description": ""
+  },
+  {
+    "id": 53,
+    "date": "2026-01-21",
+    "category": "Shopping",
+    "amount": 40.0,
+    "description": ""
+  },
+  {
+    "id": 54,
+    "date": "2026-01-21",
+    "category": "Entertainment",
+    "amount": 40.0,
+    "description": ""
+  },
+  {
+    "id": 55,
+    "date": "2026-01-21",
+    "category": "Bills",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 56,
+    "date": "2026-01-21",
+    "category": "Healthcare",
+    "amount": 80.0,
+    "description": ""
+  },
+  {
+    "id": 57,
+    "date": "2026-01-21",
+    "category": "Education",
+    "amount": 90.0,
+    "description": ""
+  },
+  {
+    "id": 58,
+    "date": "2026-01-21",
+    "category": "Other",
+    "amount": 20.0,
+    "description": ""
+  },
+  {
+    "id": 59,
+    "date": "2026-01-22",
+    "category": "Food",
+    "amount": 5.0,
+    "description": ""
+  },
+  {
+    "id": 60,
+    "date": "2026-01-22",
+    "category": "Transport",
+    "amount": 10.0,
+    "description": ""
+  },
+  {
+    "id": 61,
+    "date": "2026-01-22",
+    "category": "Entertainment",
+    "amount": 5.0,
+    "description": ""
+  },
+  {
+    "id": 62,
+    "date": "2026-01-22",
+    "category": "Bills",
+    "amount": 150.0,
+    "description": ""
+  },
+  {
+    "id": 63,
+    "date": "2026-01-22",
+    "category": "Healthcare",
+    "amount": 10.0,
+    "description": ""
+  },
+  {
+    "id": 64,
+    "date": "2026-01-22",
+    "category": "Education",
+    "amount": 20.0,
+    "description": ""
+  },
+  {
+    "id": 65,
+    "date": "2026-01-22",
+    "category": "Other",
+    "amount": 20.0,
+    "description": ""
+  },
+  {
+    "id": 66,
+    "date": "2026-01-25",
+    "category": "Food",
+    "amount": 5.0,
+    "description": ""
+  },
+  {
+    "id": 67,
+    "date": "2026-01-25",
+    "category": "Shopping",
+    "amount": 15.0,
+    "description": ""
+  },
+  {
+    "id": 68,
+    "date": "2026-01-25",
+    "category": "Entertainment",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 69,
+    "date": "2026-01-25",
+    "category": "Bills",
+    "amount": 50.0,
+    "description": ""
+  },
+  {
+    "id": 70,
+    "date": "2026-01-25",
+    "category": "Healthcare",
+    "amount": 30.0,
+    "description": ""
+  },
+  {
+    "id": 71,
+    "date": "2026-01-25",
+    "category": "Education",
+    "amount": 10.0,
+    "description": ""
+  },
+  {
+    "id": 72,
+    "date": "2026-01-25",
+    "category": "Other",
+    "amount": 20.0,
+    "description": ""
+  },
+  {
+    "id": 73,
+    "date": "2026-01-26",
+    "category": "Food",
+    "amount": 200.0,
+    "description": ""
+  },
+  {
+    "id": 74,
+    "date": "2026-01-26",
+    "category": "Transport",
+    "amount": 100.0,
+    "description": ""
+  },
+  {
+    "id": 75,
+    "date": "2026-01-26",
+    "category": "Shopping",
+    "amount": 200.0,
+    "description": ""
+  },
+  {
+    "id": 76,
+    "date": "2026-01-26",
+    "category": "Entertainment",
+    "amount": 100.0,
+    "description": ""
+  },
+  {
+    "id": 77,
+    "date": "2026-01-26",
+    "category": "Bills",
+    "amount": 10.0,
+    "description": ""
+  }
+]

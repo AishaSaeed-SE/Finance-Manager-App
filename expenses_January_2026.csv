@@ -1,0 +1,9 @@
+id,date,category,amount,description
+1,2026-01-18,Food,20.0,
+2,2026-01-18,Transport,30.0,
+3,2026-01-18,Shopping,50.0,
+4,2026-01-18,Entertainment,15.0,
+5,2026-01-18,Bills,150.0,
+6,2026-01-18,Healthcare,10.0,
+7,2026-01-18,Education,30.0,
+8,2026-01-18,Other,50.0,
